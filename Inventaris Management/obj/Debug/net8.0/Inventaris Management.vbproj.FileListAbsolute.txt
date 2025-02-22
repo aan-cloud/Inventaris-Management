@@ -12,3 +12,4 @@ C:\Users\fmuh8\source\repos\Inventaris Management\Inventaris Management\obj\Debu
 C:\Users\fmuh8\source\repos\Inventaris Management\Inventaris Management\obj\Debug\net8.0\Inventaris Management.pdb
 C:\Users\fmuh8\source\repos\Inventaris Management\Inventaris Management\obj\Debug\net8.0\Inventaris Management.genruntimeconfig.cache
 C:\Users\fmuh8\source\repos\Inventaris Management\Inventaris Management\obj\Debug\net8.0\ref\Inventaris Management.dll
+C:\Users\fmuh8\source\repos\Inventaris Management\Inventaris Management\obj\Debug\net8.0\Inventaris Management.sourcelink.json

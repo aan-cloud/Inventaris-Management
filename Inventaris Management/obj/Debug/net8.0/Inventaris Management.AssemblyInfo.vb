@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Inventaris Management"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2ffde7c034d7ff1185286e843d2ec1dcdd3526f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Inventaris Management"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Inventaris Management"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

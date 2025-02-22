@@ -1,0 +1,2 @@
+C:\Users\fmuh8\source\repos\Inventaris Management\Inventaris Management\bin\Release\net8.0\win-x64\publish\Inventaris Management.pdb
+C:\Users\fmuh8\source\repos\Inventaris Management\Inventaris Management\bin\Release\net8.0\win-x64\publish\Inventaris Management.exe
