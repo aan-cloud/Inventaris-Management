@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Inventaris Management/1.0.0": {
+        "runtime": {
+          "Inventaris Management.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inventaris Management/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
